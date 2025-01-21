@@ -14,3 +14,7 @@ How do tenure ranges align with different position levels?
 What are the employment types within the organization?
 By answering these questions, the analysis aims to uncover insights into the organization’s recruitment patterns, gender diversity, and employee retention. This will inform strategies to enhance recruitment practices, improve diversity, and optimize staffing across divisions.
 
+**Tools Used:**
+	Python(Panda, Numpy, matplotlib and scipy)
+
+
