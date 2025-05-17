@@ -1,22 +1,6 @@
-##Workforce Recruitment Effectiveness Analysis
-#Table of Content
+## Workforce Recruitment Effectiveness Analysis
 
-1. Problem Statement
-
-2. Data Collection
-
-3. Data Cleaning
-
-4. Exploratory Data Analysis (EDA)
-
-5. Insights & Results
-
-6. Conclusion
-
-7. Suggestions for Further Analysis
-
-8. Tools Used
-
+# Table of Content
 1. [Problem Statement](#problem-statement)
 2. [Data Collection](#data-collection)
 3. [Data Cleaning](#data-cleaning)
